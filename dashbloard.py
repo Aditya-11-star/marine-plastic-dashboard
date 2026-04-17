@@ -626,4 +626,4 @@ elif page == "📋 Data Explorer":
                        file_name="filtered_data.csv", mime="text/csv")
 
 st.markdown("---")
-st.markdown("**Marine Plastic Waste Management | Python for Data Science | CA Component 2**")Science | CA Component 2**")
+st.markdown("**Marine Plastic Waste Management | Python for Data Science | CA Component 2**")
